@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17fb3a59-26ff-4e17-b207-e9b7be520174" name="Changes" comment="" />
+    <list default="true" id="17fb3a59-26ff-4e17-b207-e9b7be520174" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,26 +15,64 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="2b4a9e4e-d55c-433a-a0e4-1a1d5d4ae4b5" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="5fc64acd-7e9a-4f1e-b367-ae1f962154db" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="status" value="Completed" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="2b4a9e4e-d55c-433a-a0e4-1a1d5d4ae4b5" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
       <entry key="_C:/Users/talha/OneDrive/Desktop/UNI/Honours/Semester 1/COS730/Assignments/A2" value="3DchJztKe7Ym2Ro9VJWpYhUXHVz" />
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="14" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TalhahKarodia&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TalhahKarodia/A2.git&quot;,
+    &quot;accountId&quot;: &quot;85193ef7-5c20-4c53-a6d8-ac19bac0606f&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3DchJztKe7Ym2Ro9VJWpYhUXHVz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,6 +84,7 @@
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -57,7 +98,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -70,11 +111,24 @@
       <option name="presentableId" value="Default" />
       <updated>1778587197810</updated>
       <workItem from="1778587198906" duration="1859000" />
+      <workItem from="1778589697911" duration="357000" />
+      <workItem from="1778590148304" duration="894000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
