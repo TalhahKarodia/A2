@@ -16,11 +16,11 @@ This project contains two separate Java implementations of the system:
 ### 2. Navigate to the Desired Folder
 - For the baseline system:
   ```
-  cd "C:/Users/talha/OneDrive/Desktop/UNI/Honours/Semester 1/COS730/Assignments/A2/baseline"
+  cd "A2/baseline"
   ```
 - For the optimized system:
   ```
-  cd "C:/Users/talha/OneDrive/Desktop/UNI/Honours/Semester 1/COS730/Assignments/A2/optimized"
+  cd "A2/optimized"
   ```
 
 ### 3. Compile the Java File
